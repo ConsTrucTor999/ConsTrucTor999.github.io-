@@ -1,0 +1,19 @@
+
+body{
+background: url(img/%D1%84%D0%BE%D0%BD.jpg) no-repeat center center fixed;
+background-size: cover
+} 
+bady{
+    margin: 0;
+} 
+bg{
+    background:;
+    height: 70px; 
+}
+li {
+    display: inline-block;
+    padding: 50px;
+    color:whitesmoke;
+    font-size: 25px;
+    position: relative;
+}

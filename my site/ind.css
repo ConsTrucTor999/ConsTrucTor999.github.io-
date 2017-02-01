@@ -1,0 +1,9 @@
+body{
+background: url(img/%D1%84%D0%BE%D0%BD3.jpg) no-repeat center center fixed;
+background-size: cover
+} 
+li{
+     color:black;
+    font-size: 25px;
+    position: relative;
+}
